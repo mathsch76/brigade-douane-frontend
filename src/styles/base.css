@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== BASE CSS CORRIGÉ ===== */
+html, body {
+  /* ❌ SUPPRIMÉ : @apply bg-gradient-to-r from-[#0c1021] to-[#1e2a47] text-white; */
+  /* ✅ NOUVEAU : Utilise les variables CSS pour s'adapter au thème */
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-bold;
+}
+
+/* Empêche le zoom auto sur iOS sans sacrifier l'accessibilité */
+input, textarea, select {
+  font-size: 16px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+/* Améliorations d'accessibilité globales */
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px hsl(var(--ring));
+  border-color: hsl(var(--ring));
+}
+
+@layer base {
+  :root {
+    /* ===== THÈME LIGHT AMÉLIORÉ ===== */
+    --background: 0 0% 100%;                    /* Blanc pur */
+    --foreground: 222.2 84% 4.9%;              /* Noir profond pour le texte */
+    
+    --card: 0 0% 100%;                          /* Cartes blanches */
+    --card-foreground: 222.2 84% 4.9%;         /* Texte noir sur cartes */
+    
+    --popover: 0 0% 100%;                       /* Popover blanc */
+    --popover-foreground: 222.2 84% 4.9%;      /* Texte noir popover */
+    
+    /* Couleurs primaires - Bleu professionnel brigade */
+    --primary: 221.2 83.2% 53.3%;              /* Bleu brigade #2563eb */
+    --primary-foreground: 210 40% 98%;         /* Blanc sur bleu */
+    
+    /* Couleurs secondaires - Gris léger */
+    --secondary: 210 40% 96%;                   /* Gris très clair #f8fafc */
+    --secondary-foreground: 222.2 84% 4.9%;    /* Texte foncé sur gris */
+    
+    /* États neutres */
+    --muted: 210 40% 96%;                       /* Gris discret */
+    --muted-foreground: 215.4 16.3% 46.9%;     /* Texte gris moyen */
+    
+    --accent: 210 40% 96%;                      /* Accent neutre */
+    --accent-foreground: 222.2 84% 4.9%;       /* Texte foncé accent */
+    
+    /* États d'erreur */
+    --destructive: 0 84.2% 60.2%;              /* Rouge erreur */
+    --destructive-foreground: 210 40% 98%;     /* Blanc sur rouge */
+    
+    /* Bordures et inputs */
+    --border: 214.3 31.8% 91.4%;               /* Bordure claire #e2e8f0 */
+    --input: 214.3 31.8% 91.4%;                /* Input border clair */
+    --ring: 221.2 83.2% 53.3%;                 /* Focus ring bleu */
+    
+    /* Charts améliorés pour light */
+    --chart-1: 221.2 83.2% 53.3%;              /* Bleu principal */
+    --chart-2: 142.1 76.2% 36.3%;              /* Vert */
+    --chart-3: 346.8 77.2% 49.8%;              /* Rouge */
+    --chart-4: 35.5 91.7% 32.9%;               /* Orange */
+    --chart-5: 263.4 70% 50.4%;                /* Violet */
+    
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    /* ===== THÈME DARK COHÉRENT ===== */
+    --background: 222.2 84% 4.9%;              /* Noir profond */
+    --foreground: 210 40% 98%;                 /* Blanc texte */
+    
+    --card: 222.2 84% 4.9%;                    /* Cartes sombres */
+    --card-foreground: 210 40% 98%;            /* Texte blanc cartes */
+    
+    --popover: 222.2 84% 4.9%;                 /* Popover sombre */
+    --popover-foreground: 210 40% 98%;         /* Texte blanc popover */
+    
+    --primary: 217.2 91.2% 59.8%;              /* Bleu lumineux */
+    --primary-foreground: 222.2 84% 4.9%;      /* Noir sur bleu */
+    
+    --secondary: 217.2 32.6% 17.5%;            /* Gris foncé */
+    --secondary-foreground: 210 40% 98%;       /* Blanc sur gris */
+    
+    --muted: 217.2 32.6% 17.5%;                /* Gris discret sombre */
+    --muted-foreground: 215 20.2% 65.1%;       /* Gris texte */
+    
+    --accent: 217.2 32.6% 17.5%;               /* Accent sombre */
+    --accent-foreground: 210 40% 98%;          /* Blanc accent */
+    
+    --destructive: 0 62.8% 30.6%;              /* Rouge sombre */
+    --destructive-foreground: 210 40% 98%;     /* Blanc sur rouge */
+    
+    --border: 217.2 32.6% 17.5%;               /* Bordure sombre */
+    --input: 217.2 32.6% 17.5%;                /* Input sombre */
+    --ring: 217.2 91.2% 59.8%;                 /* Focus bleu clair */
+    
+    /* Charts pour dark */
+    --chart-1: 220 70% 50%;                    /* Bleu sombre */
+    --chart-2: 160 60% 45%;                    /* Vert sombre */
+    --chart-3: 30 80% 55%;                     /* Orange sombre */
+    --chart-4: 280 65% 60%;                    /* Violet sombre */
+    --chart-5: 340 75% 55%;                    /* Rose sombre */
+  }
+
+  /* ===== APPLICATION DES VARIABLES ===== */
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    /* ✅ UTILISE les variables CSS qui s'adaptent au thème */
+  }
+
+  /* ===== TRANSITIONS FLUIDES ===== */
+  * {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+  }
+
+  /* ===== AMÉLIORATIONS ACCESSIBILITÉ ===== */
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  /* Focus visible amélioré */
+  .focus-visible:focus-visible {
+    outline: 2px solid hsl(var(--ring));
+    outline-offset: 2px;
+  }
+}
+
+/* ===== STYLES SPÉCIALISÉS CHATBOT ===== */
+.message-user {
+  @apply bg-primary text-primary-foreground;
+}
+
+.message-assistant {
+  @apply bg-muted text-muted-foreground;
+}
+
+.message-system {
+  @apply bg-accent text-accent-foreground;
+}

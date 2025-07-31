@@ -1,0 +1,123 @@
+# 🧪 Guide de Tests API - NAO&CO Backend
+
+## 🌐 URL de base
+```
+https://naoandco-backend-production.up.railway.app
+```
+
+## 📊 Tests de Santé Système
+
+### 1. Test de base
+```bash
+curl https://naoandco-backend-production.up.railway.app/
+```
+**Attendu :** Version "2.0-FINAL" + liste des features
+
+### 2. Health Check
+```bash
+curl https://naoandco-backend-production.up.railway.app/health
+```
+**Attendu :** Status "ok" + features actives
+
+### 3. Test Configuration
+```bash
+curl https://naoandco-backend-production.up.railway.app/api/config-test
+```
+**Attendu :** Variables trouvées + status Supabase
+
+## 🔐 Tests d'Authentification
+
+### 1. Login (obtenir un token)
+```bash
+curl -X POST https://naoandco-backend-production.up.railway.app/auth/login \
+  -H "Content-Type: application/json" \
+  -d '{"email":"test@naoandco.com","password":"test123"}'
+```
+**Attendu :** Token JWT + user info
+
+### 2. Vérifier le token (remplacez YOUR_TOKEN)
+```bash
+curl -H "Authorization: Bearer YOUR_TOKEN" \
+  https://naoandco-backend-production.up.railway.app/auth/verify
+```
+**Attendu :** User validé + expiration
+
+## 🗄️ Tests Base de Données
+
+### Test connexion Supabase
+```bash
+curl https://naoandco-backend-production.up.railway.app/api/db-test
+```
+**Attendu :** "Supabase connection successful!"
+
+## 🤖 Tests Assistants IA
+
+### 1. Test configuration assistants
+```bash
+curl https://naoandco-backend-production.up.railway.app/api/assistant-test
+```
+**Attendu :** 4 assistants configurés
+
+### 2. Question à l'assistant (COLONEL EMEBI)
+```bash
+curl -X POST https://naoandco-backend-production.up.railway.app/assistant/ask \
+  -H "Content-Type: application/json" \
+  -d '{"message":"Quelles sont les formalités pour importer du café en France?"}'
+```
+**Attendu :** Réponse détaillée + cache info
+
+### 3. Test multi-assistants
+```bash
+curl -X POST https://naoandco-backend-production.up.railway.app/assistant/multi \
+  -H "Content-Type: application/json" \
+  -d '{"message":"Quels sont les droits de douane sur le textile?"}'
+```
+**Attendu :** Réponses multiples + assistants disponibles
+
+## 💾 Tests Cache
+
+### 1. Statistiques cache
+```bash
+curl https://naoandco-backend-production.up.railway.app/api/cache-stats
+```
+**Attendu :** Stats cache + type redis-ready
+
+### 2. Test cache intelligent (répéter la même question)
+```bash
+# Première fois (lent)
+curl -X POST https://naoandco-backend-production.up.railway.app/assistant/ask \
+  -H "Content-Type: application/json" \
+  -d '{"message":"Que faire pour importer du chocolat?"}'
+
+# Deuxième fois (rapide depuis le cache)
+curl -X POST https://naoandco-backend-production.up.railway.app/assistant/ask \
+  -H "Content-Type: application/json" \
+  -d '{"message":"Que faire pour importer du chocolat?"}'
+```
+**Attendu :** Deuxième réponse avec "from_cache": true
+
+## ✅ Checklist de Validation
+
+- [ ] ✅ API répond (status 200)
+- [ ] ✅ Version 2.0-FINAL confirmée
+- [ ] ✅ 6 features actives
+- [ ] ✅ Login/token fonctionne
+- [ ] ✅ Supabase connecté
+- [ ] ✅ 4 assistants configurés
+- [ ] ✅ Assistant répond aux questions
+- [ ] ✅ Cache fonctionne
+- [ ] ✅ Statistiques disponibles
+
+## 🚨 En cas de problème
+
+1. **Erreur 500** → Vérifier les logs Railway
+2. **Timeout assistant** → Normal, attendre 30s max
+3. **Cache vide** → Normal au début
+4. **Variables manquantes** → Vérifier Railway dashboard
+
+## 📊 Performance attendue
+
+- **Réponse API** : < 100ms
+- **Assistant (cache HIT)** : < 100ms  
+- **Assistant (cache MISS)** : 5-30s
+- **Cache hit rate** : 50%+ après quelques tests
