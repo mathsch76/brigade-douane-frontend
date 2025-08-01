@@ -538,7 +538,7 @@ const getCurrentAvatar = (botName: string): string => {
 
       console.log('🤖 Récupération liste des bots...');
 
-      const res = await fetch(`${API_BASE}/assistant/user-bots`, {
+      const res = await fetch(`${API_BASE}/assistant/bots`, {
         headers: {
           'Authorization': `Bearer ${token}`,
           'Content-Type': 'application/json'
