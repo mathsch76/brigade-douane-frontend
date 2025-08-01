@@ -1,0 +1,29 @@
+# node
+node_modules/
+dist/
+.cache/
+.vite/
+
+# système
+.DS_Store
+.env
+.env.local
+.env.production
+.env.development
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# railway
+.railway
+railway.json
+
+# autres trucs temporaires
+*.swp
+*.swo
+*.tmp
+
+# Vite
+.vitepress
