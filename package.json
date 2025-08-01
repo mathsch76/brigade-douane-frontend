@@ -6,9 +6,9 @@
   "scripts": {
     "dev": "vite --host",
     "build": "NODE_ENV=production vite build",
-"build:static": "vite build",
+    "build:static": "vite build",
     "preview": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
-    "serve": "npx vite preview --host 0.0.0.0 --port ${PORT:-4173}",
+    "serve": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
     "start": "npm run serve",
     "proxy": "node proxy-server.js",
     "lint": "eslint .",
@@ -40,7 +40,8 @@
     "recharts": "^2.15.3",
     "serve": "^14.2.1",
     "tailwind-merge": "^3.3.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "vite": "^6.3.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
@@ -55,8 +56,7 @@
     "globals": "^15.15.0",
     "postcss": "^8.5.3",
     "tailwindcss": "^3.4.3",
-    "terser": "^5.43.1",
-    "vite": "^6.3.5"
+    "terser": "^5.43.1"
   },
   "overrides": {
     "react-router-dom": "^6.28.1"
