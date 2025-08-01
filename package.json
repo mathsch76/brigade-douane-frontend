@@ -5,9 +5,9 @@
   "type": "module",
 "scripts": {
   "dev": "vite --host",
-  "build": "node node_modules/vite/bin/vite.js build",
+  "prebuild:static": "echo 'VITE_BACKEND_URL=$VITE_BACKEND_URL' > .env",
   "build:static": "node node_modules/vite/bin/vite.js build",
-  "preview": "node node_modules/vite/bin/vite.js preview --host 0.0.0.0 --port ${PORT:-4173}",
+  "preview": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
   "serve": "node node_modules/vite/bin/vite.js preview --host 0.0.0.0 --port ${PORT:-4173}",
   "start": "npm run serve",
   "proxy": "node proxy-server.js",
