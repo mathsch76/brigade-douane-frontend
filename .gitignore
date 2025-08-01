@@ -27,3 +27,5 @@ railway.json
 
 # Vite
 .vitepress
+
+!/.railway/setup.sh
