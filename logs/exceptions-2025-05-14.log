@@ -1,0 +1,60 @@
+2025-05-14 17:39:35 [ERROR]: uncaughtException: Cannot find module 'bcryptjs'
+Require stack:
+- C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\routes\user.ts
+- C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\server.ts
+Error: Cannot find module 'bcryptjs'
+Require stack:
+- C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\routes\user.ts
+- C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\server.ts
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at nextResolveSimple (C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:3:942)
+    at C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:2:2550
+    at C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:2:1624
+    at resolveTsPaths (C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:3:760)
+    at C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:3:1038
+    at m._resolveFilename (file:///C:/Users/mathi/brigade-douane-test/brigade-douane/auth-backend/node_modules/tsx/dist/register-RyGUjI6j.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at require (node:internal/modules/helpers:177:18)
+2025-05-14 17:39:50 [ERROR]: uncaughtException: Cannot find module 'bcryptjs'
+Require stack:
+- C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\routes\user.ts
+- C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\server.ts
+Error: Cannot find module 'bcryptjs'
+Require stack:
+- C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\routes\user.ts
+- C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\server.ts
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at nextResolveSimple (C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:3:942)
+    at C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:2:2550
+    at C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:2:1624
+    at resolveTsPaths (C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:3:760)
+    at C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:3:1038
+    at m._resolveFilename (file:///C:/Users/mathi/brigade-douane-test/brigade-douane/auth-backend/node_modules/tsx/dist/register-RyGUjI6j.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at require (node:internal/modules/helpers:177:18)
+2025-05-14 19:05:49 [ERROR]: uncaughtException: ex is not defined
+ReferenceError: ex is not defined
+    at logger (c:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\routes\user.ts:70:1)
+    at Object.<anonymous> (c:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\routes\user.ts:70:1)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Object.transformer (C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:2:1186)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at require (node:internal/modules/helpers:177:18)
+    at logger (c:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\server.ts:9:24)
+    at Object.<anonymous> (c:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\server.ts:67:2)
+2025-05-14 19:06:28 [ERROR]: uncaughtException: ex is not defined
+ReferenceError: ex is not defined
+    at logger (c:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\routes\user.ts:70:1)
+    at Object.<anonymous> (c:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\routes\user.ts:70:1)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Object.transformer (C:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\node_modules\tsx\dist\register-DCnOAxY2.cjs:2:1186)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at require (node:internal/modules/helpers:177:18)
+    at logger (c:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\server.ts:9:24)
+    at Object.<anonymous> (c:\Users\mathi\brigade-douane-test\brigade-douane\auth-backend\server.ts:67:2)

@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\mathi\\brigade-douane-test\\brigade-douane\\logs\\.184dead209b129238b09ce0ce6e7615bad302f4e-audit.json",
+    "files": [
+        {
+            "date": 1747216444928,
+            "name": "C:\\Users\\mathi\\brigade-douane-test\\brigade-douane\\logs\\error-2025-05-14.log",
+            "hash": "d066b28574800f6650014164077661353b4968761453beef06d738fdce93059e"
+        },
+        {
+            "date": 1747261101374,
+            "name": "C:\\Users\\mathi\\brigade-douane-test\\brigade-douane\\logs\\error-2025-05-15.log",
+            "hash": "c7400a4415f69976a78ae09961a44d2464660b358de9206e8fabfd84e456a17b"
+        },
+        {
+            "date": 1747753190278,
+            "name": "C:\\Users\\mathi\\brigade-douane-test\\brigade-douane\\logs\\error-2025-05-20.log",
+            "hash": "67257087ee580bc814e84ce2d2d211706227dd611b504b584170d637f5412f83"
+        }
+    ],
+    "hashType": "sha256"
+}

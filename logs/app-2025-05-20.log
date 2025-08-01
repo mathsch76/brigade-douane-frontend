@@ -1,0 +1,51 @@
+2025-05-20 16:59:50 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-20 17:01:03 [INFO]: [POST] /auth/login
+2025-05-20 17:01:03 [INFO]: [GET] /assistant/bots
+2025-05-20 17:01:03 [INFO]: [GET] /assistant/bots
+2025-05-20 17:01:05 [INFO]: [GET] /user/me
+2025-05-20 17:01:05 [INFO]: 🔑 Token reçu :
+2025-05-20 17:01:05 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-20 17:01:05 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-20 17:01:05 [INFO]: ✅ Données utilisateur final :
+2025-05-20 17:01:05 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-20 17:01:05 [INFO]: [GET] /user/me
+2025-05-20 17:01:05 [INFO]: 🔑 Token reçu :
+2025-05-20 17:01:05 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-20 17:01:05 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-20 17:01:05 [INFO]: ✅ Données utilisateur final :
+2025-05-20 17:01:05 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-20 17:01:16 [INFO]: [GET] /assistant/bots
+2025-05-20 17:01:16 [INFO]: [GET] /assistant/bots
+2025-05-20 17:01:22 [INFO]: [GET] /assistant/bots
+2025-05-20 17:01:22 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:06 [INFO]: [POST] /auth/login
+2025-05-20 17:02:06 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:06 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:14 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:14 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:16 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:16 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:17 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:17 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:27 [INFO]: [POST] /auth/login
+2025-05-20 17:02:29 [INFO]: [GET] /user
+2025-05-20 17:02:29 [INFO]: 🔑 Token reçu :
+2025-05-20 17:02:29 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-20 17:02:29 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-20 17:02:29 [INFO]: ✅ Nombre de licences pour l'utilisateur f8097944-4082-4ba4-ac8c-c24fb96dcf4b : 0
+2025-05-20 17:02:29 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-20 17:02:29 [INFO]: ✅ Liste des utilisateurs avec licences récupérée :
+2025-05-20 17:02:32 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:32 [INFO]: [GET] /assistant/bots
+2025-05-20 17:02:33 [INFO]: [GET] /user/me
+2025-05-20 17:02:33 [INFO]: 🔑 Token reçu :
+2025-05-20 17:02:33 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-20 17:02:33 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-20 17:02:33 [INFO]: ✅ Données utilisateur final :
+2025-05-20 17:02:33 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-20 17:02:33 [INFO]: [GET] /user/me
+2025-05-20 17:02:33 [INFO]: 🔑 Token reçu :
+2025-05-20 17:02:33 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-20 17:02:33 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-20 17:02:33 [INFO]: ✅ Données utilisateur final :
+2025-05-20 17:02:33 [INFO]: ✅ Données utilisateur récupérées :

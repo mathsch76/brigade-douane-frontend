@@ -1,0 +1,964 @@
+2025-05-14 11:54:04 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 11:54:10 [INFO]: [GET] /assistant/bots
+2025-05-14 11:54:10 [INFO]: [GET] /bots
+2025-05-14 11:54:10 [INFO]: [GET] /bots
+2025-05-14 11:54:10 [INFO]: [GET] /assistant/bots
+2025-05-14 11:54:23 [INFO]: [POST] /assistant/ask
+2025-05-14 12:55:53 [INFO]: [GET] /assistant/bots
+2025-05-14 12:55:53 [INFO]: [GET] /bots
+2025-05-14 12:55:53 [INFO]: [GET] /bots
+2025-05-14 12:55:53 [INFO]: [GET] /assistant/bots
+2025-05-14 12:58:05 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 12:58:09 [INFO]: [GET] /assistant/bots
+2025-05-14 12:58:09 [INFO]: [GET] /bots
+2025-05-14 12:58:09 [INFO]: [GET] /bots
+2025-05-14 12:58:10 [INFO]: [GET] /assistant/bots
+2025-05-14 12:58:23 [INFO]: [POST] /assistant/ask
+2025-05-14 12:58:27 [INFO]: [GET] /user/admin
+2025-05-14 12:58:27 [INFO]: 🔑 Token reçu :
+2025-05-14 12:58:27 [INFO]: 🔓 Token valide, utilisateur authentifié :
+2025-05-14 12:58:27 [INFO]: 📥 Requête reçue sur /user/admin
+2025-05-14 12:58:28 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 12:58:28 [INFO]: ✅ Utilisateurs récupérés depuis Supabase :
+2025-05-14 12:58:30 [INFO]: [GET] /assistant/bots
+2025-05-14 12:58:30 [INFO]: [GET] /assistant/bots
+2025-05-14 14:00:29 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 14:01:11 [INFO]: [POST] /auth/login
+2025-05-14 14:08:57 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 14:09:29 [INFO]: [POST] /auth/login
+2025-05-14 14:09:31 [INFO]: [POST] /auth/login
+2025-05-14 14:09:43 [INFO]: [POST] /auth/login
+2025-05-14 14:14:24 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 14:15:02 [INFO]: [POST] /auth/login
+2025-05-14 14:15:03 [INFO]: [GET] /assistant/bots
+2025-05-14 14:15:03 [INFO]: [GET] /assistant/bots
+2025-05-14 14:15:08 [INFO]: [GET] /assistant/bots
+2025-05-14 14:15:08 [INFO]: [GET] /bots
+2025-05-14 14:15:08 [INFO]: [GET] /bots
+2025-05-14 14:15:08 [INFO]: [GET] /assistant/bots
+2025-05-14 14:15:33 [INFO]: [GET] /user
+2025-05-14 14:15:33 [INFO]: 🔑 Token reçu :
+2025-05-14 14:15:33 [INFO]: 🔓 Token valide, utilisateur authentifié :
+2025-05-14 14:15:33 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 14:15:33 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 14:15:33 [INFO]: [GET] /user
+2025-05-14 14:15:33 [INFO]: 🔑 Token reçu :
+2025-05-14 14:15:33 [INFO]: 🔓 Token valide, utilisateur authentifié :
+2025-05-14 14:15:33 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 14:15:33 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 14:27:24 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 14:27:42 [INFO]: [GET] /assistant/bots
+2025-05-14 14:27:42 [INFO]: [GET] /bots
+2025-05-14 14:27:42 [INFO]: [GET] /bots
+2025-05-14 14:27:42 [INFO]: [GET] /assistant/bots
+2025-05-14 14:28:00 [INFO]: [POST] /auth/login
+2025-05-14 14:28:08 [INFO]: [GET] /assistant/bots
+2025-05-14 14:28:08 [INFO]: [GET] /bots
+2025-05-14 14:28:08 [INFO]: [GET] /bots
+2025-05-14 14:28:08 [INFO]: [GET] /assistant/bots
+2025-05-14 14:28:22 [INFO]: [POST] /auth/login
+2025-05-14 14:28:22 [INFO]: [GET] /assistant/bots
+2025-05-14 14:28:22 [INFO]: [GET] /assistant/bots
+2025-05-14 14:28:26 [INFO]: [GET] /assistant/bots
+2025-05-14 14:28:26 [INFO]: [GET] /bots
+2025-05-14 14:28:26 [INFO]: [GET] /bots
+2025-05-14 14:28:26 [INFO]: [GET] /assistant/bots
+2025-05-14 14:28:30 [INFO]: [POST] /assistant/ask
+2025-05-14 14:28:32 [INFO]: [GET] /user
+2025-05-14 14:28:32 [INFO]: 🔑 Token reçu :
+2025-05-14 14:28:32 [INFO]: 🔓 Token valide, utilisateur authentifié :
+2025-05-14 14:28:33 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 14:28:33 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 14:28:33 [INFO]: [GET] /user
+2025-05-14 14:28:33 [INFO]: 🔑 Token reçu :
+2025-05-14 14:28:33 [INFO]: 🔓 Token valide, utilisateur authentifié :
+2025-05-14 14:28:33 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 14:28:33 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 14:28:56 [INFO]: [POST] /auth/login
+2025-05-14 14:34:14 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 14:34:35 [INFO]: [POST] /auth/login
+2025-05-14 14:35:39 [INFO]: [POST] /auth/login
+2025-05-14 14:35:41 [INFO]: [POST] /auth/login
+2025-05-14 14:35:42 [INFO]: [POST] /auth/login
+2025-05-14 14:36:48 [INFO]: [POST] /auth/login
+2025-05-14 14:38:31 [INFO]: [POST] /auth/login
+2025-05-14 14:38:55 [INFO]: [POST] /auth/login
+2025-05-14 14:40:54 [INFO]: [POST] /auth/login
+2025-05-14 14:41:03 [INFO]: [POST] /auth/login
+2025-05-14 14:41:11 [INFO]: [POST] /auth/login
+2025-05-14 14:42:10 [INFO]: [POST] /auth/login
+2025-05-14 14:43:23 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 14:46:56 [INFO]: [POST] /auth/login
+2025-05-14 14:54:28 [INFO]: [POST] /auth/login
+2025-05-14 14:57:06 [INFO]: [POST] /auth/login
+2025-05-14 14:57:12 [INFO]: [GET] /assistant/bots
+2025-05-14 14:57:12 [INFO]: [GET] /assistant/bots
+2025-05-14 14:57:17 [INFO]: [GET] /user/admin
+2025-05-14 14:57:17 [INFO]: 🔑 Token reçu :
+2025-05-14 14:57:17 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 14:57:48 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 14:57:54 [INFO]: [GET] /user/admin
+2025-05-14 14:57:54 [INFO]: 🔑 Token reçu :
+2025-05-14 14:57:54 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 15:04:29 [INFO]: [GET] /user/admin
+2025-05-14 15:04:29 [INFO]: 🔑 Token reçu :
+2025-05-14 15:04:29 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 15:05:20 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 15:05:31 [INFO]: [POST] /auth/login
+2025-05-14 15:05:34 [INFO]: [GET] /user/admin
+2025-05-14 15:05:34 [INFO]: 🔑 Token reçu :
+2025-05-14 15:05:34 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 15:08:17 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 15:08:27 [INFO]: [POST] /auth/login
+2025-05-14 15:08:32 [INFO]: [GET] /user/admin
+2025-05-14 15:08:32 [INFO]: 🔑 Token reçu :
+2025-05-14 15:08:32 [INFO]: 🔍 Contenu du token décodé :
+2025-05-14 15:08:32 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 15:18:31 [INFO]: [GET] /user/admin
+2025-05-14 15:18:31 [INFO]: 🔑 Token reçu :
+2025-05-14 15:18:31 [INFO]: 🔍 Contenu du token décodé :
+2025-05-14 15:18:31 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 15:23:24 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 15:23:38 [INFO]: [POST] /auth/login
+2025-05-14 15:23:42 [INFO]: [GET] /user/admin
+2025-05-14 15:23:42 [INFO]: 🔑 Token reçu :
+2025-05-14 15:23:42 [INFO]: 🔍 Contenu du token décodé :
+2025-05-14 15:23:42 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 15:43:23 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 15:43:41 [INFO]: [POST] /auth/login
+2025-05-14 15:43:46 [INFO]: [GET] /user/admin
+2025-05-14 15:43:46 [INFO]: 🔑 Token reçu :
+2025-05-14 15:43:46 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 15:53:18 [INFO]: [GET] /user/admin
+2025-05-14 15:53:18 [INFO]: 🔑 Token reçu :
+2025-05-14 15:53:18 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 16:00:48 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 16:02:26 [INFO]: [POST] /auth/login
+2025-05-14 16:02:29 [INFO]: [GET] /user/admin
+2025-05-14 16:02:29 [INFO]: 🔑 Token reçu :
+2025-05-14 16:02:29 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:02:29 [INFO]: 📥 Requête reçue sur /user/admin
+2025-05-14 16:02:29 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:02:29 [INFO]: ✅ Utilisateurs récupérés depuis Supabase :
+2025-05-14 16:02:34 [INFO]: [GET] /assistant/bots
+2025-05-14 16:02:34 [INFO]: [GET] /assistant/bots
+2025-05-14 16:02:36 [INFO]: [GET] /assistant/bots
+2025-05-14 16:02:36 [INFO]: [GET] /bots
+2025-05-14 16:02:36 [INFO]: [GET] /bots
+2025-05-14 16:02:36 [INFO]: [GET] /assistant/bots
+2025-05-14 16:02:40 [INFO]: [POST] /assistant/ask
+2025-05-14 16:02:44 [INFO]: [GET] /user
+2025-05-14 16:02:44 [INFO]: 🔑 Token reçu :
+2025-05-14 16:02:44 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:02:44 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:02:44 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:02:44 [INFO]: [GET] /user
+2025-05-14 16:02:44 [INFO]: 🔑 Token reçu :
+2025-05-14 16:02:44 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:02:44 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:02:44 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:04:32 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 16:05:16 [INFO]: [GET] /user
+2025-05-14 16:05:16 [INFO]: 🔑 Token reçu :
+2025-05-14 16:05:16 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:05:17 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:05:17 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:05:17 [INFO]: [GET] /user
+2025-05-14 16:05:17 [INFO]: 🔑 Token reçu :
+2025-05-14 16:05:17 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:05:17 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:05:17 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:14:42 [INFO]: [GET] /user
+2025-05-14 16:14:42 [INFO]: 🔑 Token reçu :
+2025-05-14 16:14:42 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:14:43 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:14:43 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:14:43 [INFO]: [GET] /user
+2025-05-14 16:14:43 [INFO]: 🔑 Token reçu :
+2025-05-14 16:14:43 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:14:43 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:14:43 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:26:38 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 16:26:48 [INFO]: [GET] /assistant/bots
+2025-05-14 16:26:48 [INFO]: [GET] /bots
+2025-05-14 16:26:48 [INFO]: [GET] /bots
+2025-05-14 16:26:48 [INFO]: [GET] /assistant/bots
+2025-05-14 16:27:14 [INFO]: [POST] /auth/login
+2025-05-14 16:27:17 [INFO]: [GET] /user/admin
+2025-05-14 16:27:17 [INFO]: 🔑 Token reçu :
+2025-05-14 16:27:17 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:27:17 [INFO]: 📥 Requête reçue sur /user/admin
+2025-05-14 16:27:17 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:27:17 [INFO]: ✅ Utilisateurs récupérés depuis Supabase :
+2025-05-14 16:27:21 [INFO]: [GET] /assistant/bots
+2025-05-14 16:27:21 [INFO]: [GET] /assistant/bots
+2025-05-14 16:27:43 [INFO]: [GET] /assistant/bots
+2025-05-14 16:27:43 [INFO]: [GET] /bots
+2025-05-14 16:27:43 [INFO]: [GET] /bots
+2025-05-14 16:27:43 [INFO]: [GET] /assistant/bots
+2025-05-14 16:27:51 [INFO]: [POST] /assistant/ask
+2025-05-14 16:31:30 [INFO]: [GET] /assistant/bots
+2025-05-14 16:31:30 [INFO]: [GET] /bots
+2025-05-14 16:31:30 [INFO]: [GET] /bots
+2025-05-14 16:31:30 [INFO]: [GET] /assistant/bots
+2025-05-14 16:31:33 [INFO]: [GET] /user/me
+2025-05-14 16:31:33 [INFO]: [GET] /user/me
+2025-05-14 16:33:02 [INFO]: [GET] /assistant/bots
+2025-05-14 16:33:02 [INFO]: [GET] /bots
+2025-05-14 16:33:02 [INFO]: [GET] /bots
+2025-05-14 16:33:02 [INFO]: [GET] /assistant/bots
+2025-05-14 16:33:04 [INFO]: [GET] /user
+2025-05-14 16:33:04 [INFO]: 🔑 Token reçu :
+2025-05-14 16:33:04 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:33:04 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:33:04 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:33:04 [INFO]: [GET] /user
+2025-05-14 16:33:04 [INFO]: 🔑 Token reçu :
+2025-05-14 16:33:04 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:33:04 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:33:04 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:33:20 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 16:33:23 [INFO]: [GET] /assistant/bots
+2025-05-14 16:33:23 [INFO]: [GET] /bots
+2025-05-14 16:33:23 [INFO]: [GET] /bots
+2025-05-14 16:33:23 [INFO]: [GET] /assistant/bots
+2025-05-14 16:33:24 [INFO]: [GET] /user
+2025-05-14 16:33:24 [INFO]: 🔑 Token reçu :
+2025-05-14 16:33:24 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:33:24 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:33:24 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:33:24 [INFO]: [GET] /user
+2025-05-14 16:33:24 [INFO]: 🔑 Token reçu :
+2025-05-14 16:33:24 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:33:25 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:33:25 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:33:46 [INFO]: [POST] /auth/login
+2025-05-14 16:33:51 [INFO]: [GET] /user/admin
+2025-05-14 16:33:51 [INFO]: 🔑 Token reçu :
+2025-05-14 16:33:51 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:33:51 [INFO]: 📥 Requête reçue sur /user/admin
+2025-05-14 16:33:52 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:33:52 [INFO]: ✅ Utilisateurs récupérés depuis Supabase :
+2025-05-14 16:33:58 [INFO]: [GET] /assistant/bots
+2025-05-14 16:33:58 [INFO]: [GET] /assistant/bots
+2025-05-14 16:34:01 [INFO]: [GET] /user
+2025-05-14 16:34:01 [INFO]: 🔑 Token reçu :
+2025-05-14 16:34:01 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:34:01 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:34:01 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:34:01 [INFO]: [GET] /user
+2025-05-14 16:34:01 [INFO]: 🔑 Token reçu :
+2025-05-14 16:34:01 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:34:01 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:34:01 [INFO]: ✅ Liste des utilisateurs récupérée avec succès.
+2025-05-14 16:40:08 [INFO]: [GET] /assistant/bots
+2025-05-14 16:40:08 [INFO]: [GET] /assistant/bots
+2025-05-14 16:40:09 [INFO]: [GET] /user/me
+2025-05-14 16:40:09 [INFO]: [GET] /user/me
+2025-05-14 16:40:18 [INFO]: [GET] /user/me
+2025-05-14 16:40:18 [INFO]: [GET] /user/me
+2025-05-14 16:42:36 [INFO]: [GET] /assistant/bots
+2025-05-14 16:42:36 [INFO]: [GET] /assistant/bots
+2025-05-14 16:42:38 [INFO]: [GET] /user/me
+2025-05-14 16:42:38 [INFO]: [GET] /user/me
+2025-05-14 16:42:49 [INFO]: [GET] /assistant/bots
+2025-05-14 16:42:49 [INFO]: [GET] /assistant/bots
+2025-05-14 16:42:54 [INFO]: [GET] /user/me
+2025-05-14 16:42:54 [INFO]: [GET] /user/me
+2025-05-14 16:45:56 [INFO]: [GET] /assistant/bots
+2025-05-14 16:45:56 [INFO]: [GET] /assistant/bots
+2025-05-14 16:45:59 [INFO]: [GET] /user/me
+2025-05-14 16:45:59 [INFO]: [GET] /user/me
+2025-05-14 16:46:38 [INFO]: [GET] /user/admin
+2025-05-14 16:46:38 [INFO]: 🔑 Token reçu :
+2025-05-14 16:46:38 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 16:46:38 [INFO]: 📥 Requête reçue sur /user/admin
+2025-05-14 16:46:38 [INFO]: ✅ Utilisateurs avec licences récupérés :
+2025-05-14 16:46:38 [INFO]: ✅ Utilisateurs récupérés depuis Supabase :
+2025-05-14 17:00:18 [INFO]: [GET] /assistant/bots
+2025-05-14 17:00:19 [INFO]: [GET] /assistant/bots
+2025-05-14 17:00:20 [INFO]: [GET] /user/me
+2025-05-14 17:00:20 [INFO]: [GET] /user/me
+2025-05-14 17:02:24 [INFO]: [GET] /assistant/bots
+2025-05-14 17:02:24 [INFO]: [GET] /assistant/bots
+2025-05-14 17:02:36 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 17:02:42 [INFO]: [GET] /assistant/bots
+2025-05-14 17:02:42 [INFO]: [GET] /assistant/bots
+2025-05-14 17:02:46 [INFO]: [GET] /user/me
+2025-05-14 17:02:46 [INFO]: 🔑 Token reçu :
+2025-05-14 17:02:46 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:02:46 [ERROR]: ❌ Erreur lors de la récupération de l'utilisateur : invalid input syntax for type uuid: "undefined"
+2025-05-14 17:02:46 [INFO]: [GET] /user/me
+2025-05-14 17:02:46 [INFO]: 🔑 Token reçu :
+2025-05-14 17:02:46 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:02:46 [ERROR]: ❌ Erreur lors de la récupération de l'utilisateur : invalid input syntax for type uuid: "undefined"
+2025-05-14 17:09:50 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 17:09:59 [INFO]: [GET] /assistant/bots
+2025-05-14 17:09:59 [INFO]: [GET] /assistant/bots
+2025-05-14 17:10:02 [INFO]: [GET] /user/me
+2025-05-14 17:10:02 [INFO]: 🔑 Token reçu :
+2025-05-14 17:10:02 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:10:02 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:10:02 [INFO]: [GET] /user/me
+2025-05-14 17:10:02 [INFO]: 🔑 Token reçu :
+2025-05-14 17:10:02 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:10:02 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:11:33 [INFO]: [GET] /assistant/bots
+2025-05-14 17:11:33 [INFO]: [GET] /assistant/bots
+2025-05-14 17:11:34 [INFO]: [GET] /user/me
+2025-05-14 17:11:34 [INFO]: 🔑 Token reçu :
+2025-05-14 17:11:34 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:11:34 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:11:34 [INFO]: [GET] /user/me
+2025-05-14 17:11:34 [INFO]: 🔑 Token reçu :
+2025-05-14 17:11:34 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:11:34 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:15:47 [INFO]: [GET] /assistant/bots
+2025-05-14 17:15:47 [INFO]: [GET] /assistant/bots
+2025-05-14 17:15:49 [INFO]: [GET] /user/me
+2025-05-14 17:15:49 [INFO]: 🔑 Token reçu :
+2025-05-14 17:15:49 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:15:49 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:15:49 [INFO]: [GET] /user/me
+2025-05-14 17:15:49 [INFO]: 🔑 Token reçu :
+2025-05-14 17:15:49 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:15:49 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:16:02 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 17:16:04 [INFO]: [GET] /assistant/bots
+2025-05-14 17:16:04 [INFO]: [GET] /assistant/bots
+2025-05-14 17:16:07 [INFO]: [GET] /user/me
+2025-05-14 17:16:07 [INFO]: 🔑 Token reçu :
+2025-05-14 17:16:07 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:16:07 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:16:07 [INFO]: [GET] /user/me
+2025-05-14 17:16:07 [INFO]: 🔑 Token reçu :
+2025-05-14 17:16:07 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:16:07 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:18:35 [INFO]: [GET] /assistant/bots
+2025-05-14 17:18:35 [INFO]: [GET] /assistant/bots
+2025-05-14 17:18:36 [INFO]: [GET] /user/me
+2025-05-14 17:18:36 [INFO]: 🔑 Token reçu :
+2025-05-14 17:18:36 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:18:36 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:18:36 [INFO]: [GET] /user/me
+2025-05-14 17:18:36 [INFO]: 🔑 Token reçu :
+2025-05-14 17:18:36 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:18:36 [ERROR]: ❌ ID utilisateur non trouvé
+2025-05-14 17:25:57 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 17:26:06 [INFO]: [GET] /assistant/bots
+2025-05-14 17:26:06 [INFO]: [GET] /assistant/bots
+2025-05-14 17:26:10 [INFO]: [GET] /user/me
+2025-05-14 17:26:10 [INFO]: 🔑 Token reçu :
+2025-05-14 17:26:10 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:26:10 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:26:10 [INFO]: [GET] /user/me
+2025-05-14 17:26:10 [INFO]: 🔑 Token reçu :
+2025-05-14 17:26:10 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:26:10 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:42:18 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 17:42:26 [INFO]: [GET] /assistant/bots
+2025-05-14 17:42:27 [INFO]: [GET] /assistant/bots
+2025-05-14 17:42:29 [INFO]: [GET] /user/me
+2025-05-14 17:42:29 [INFO]: 🔑 Token reçu :
+2025-05-14 17:42:29 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:42:29 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:42:29 [INFO]: [GET] /user/me
+2025-05-14 17:42:29 [INFO]: 🔑 Token reçu :
+2025-05-14 17:42:29 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:42:29 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:42:36 [INFO]: [GET] /assistant/bots
+2025-05-14 17:42:36 [INFO]: [GET] /bots
+2025-05-14 17:42:36 [INFO]: [GET] /bots
+2025-05-14 17:42:36 [INFO]: [GET] /assistant/bots
+2025-05-14 17:42:39 [INFO]: [POST] /assistant/ask
+2025-05-14 17:42:51 [INFO]: [POST] /auth/login
+2025-05-14 17:42:51 [INFO]: [GET] /assistant/bots
+2025-05-14 17:42:51 [INFO]: [GET] /assistant/bots
+2025-05-14 17:42:53 [INFO]: [GET] /user/me
+2025-05-14 17:42:53 [INFO]: 🔑 Token reçu :
+2025-05-14 17:42:53 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:42:53 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:42:53 [INFO]: [GET] /user/me
+2025-05-14 17:42:53 [INFO]: 🔑 Token reçu :
+2025-05-14 17:42:53 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:42:53 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:43:29 [INFO]: [POST] /auth/login
+2025-05-14 17:43:31 [INFO]: [GET] /assistant/bots
+2025-05-14 17:43:31 [INFO]: [GET] /assistant/bots
+2025-05-14 17:43:33 [INFO]: [GET] /user/me
+2025-05-14 17:43:33 [INFO]: 🔑 Token reçu :
+2025-05-14 17:43:33 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:43:33 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:43:33 [INFO]: [GET] /user/me
+2025-05-14 17:43:33 [INFO]: 🔑 Token reçu :
+2025-05-14 17:43:33 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:43:33 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:45:57 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 17:46:04 [INFO]: [GET] /assistant/bots
+2025-05-14 17:46:04 [INFO]: [GET] /assistant/bots
+2025-05-14 17:46:06 [INFO]: [GET] /user/me
+2025-05-14 17:46:06 [INFO]: 🔑 Token reçu :
+2025-05-14 17:46:06 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:46:06 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:46:06 [INFO]: [GET] /user/me
+2025-05-14 17:46:06 [INFO]: 🔑 Token reçu :
+2025-05-14 17:46:06 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:46:06 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:49:08 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 17:49:12 [INFO]: [GET] /assistant/bots
+2025-05-14 17:49:12 [INFO]: [GET] /assistant/bots
+2025-05-14 17:49:13 [INFO]: [GET] /user/me
+2025-05-14 17:49:13 [INFO]: 🔑 Token reçu :
+2025-05-14 17:49:13 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:49:13 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:49:13 [INFO]: [GET] /user/me
+2025-05-14 17:49:13 [INFO]: 🔑 Token reçu :
+2025-05-14 17:49:13 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:49:14 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:52:35 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 17:52:40 [INFO]: [GET] /assistant/bots
+2025-05-14 17:52:40 [INFO]: [GET] /assistant/bots
+2025-05-14 17:52:42 [INFO]: [GET] /user/me
+2025-05-14 17:52:42 [INFO]: 🔑 Token reçu :
+2025-05-14 17:52:42 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:52:42 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 17:52:42 [INFO]: [GET] /user/me
+2025-05-14 17:52:42 [INFO]: 🔑 Token reçu :
+2025-05-14 17:52:42 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 17:52:42 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:02:21 [INFO]: [GET] /assistant/bots
+2025-05-14 18:02:21 [INFO]: [GET] /assistant/bots
+2025-05-14 18:02:23 [INFO]: [GET] /user/me
+2025-05-14 18:02:23 [INFO]: 🔑 Token reçu :
+2025-05-14 18:02:23 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:02:23 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:02:23 [INFO]: [GET] /user/me
+2025-05-14 18:02:23 [INFO]: 🔑 Token reçu :
+2025-05-14 18:02:23 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:02:23 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:02:38 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 18:02:41 [INFO]: [GET] /assistant/bots
+2025-05-14 18:02:41 [INFO]: [GET] /assistant/bots
+2025-05-14 18:02:42 [INFO]: [GET] /user/me
+2025-05-14 18:02:42 [INFO]: 🔑 Token reçu :
+2025-05-14 18:02:42 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:02:42 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:02:42 [INFO]: [GET] /user/me
+2025-05-14 18:02:42 [INFO]: 🔑 Token reçu :
+2025-05-14 18:02:42 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:02:43 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:03:01 [INFO]: [GET] /assistant/bots
+2025-05-14 18:03:01 [INFO]: [GET] /assistant/bots
+2025-05-14 18:03:03 [INFO]: [GET] /user/me
+2025-05-14 18:03:03 [INFO]: 🔑 Token reçu :
+2025-05-14 18:03:03 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:03:03 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:03:03 [INFO]: [GET] /user/me
+2025-05-14 18:03:03 [INFO]: 🔑 Token reçu :
+2025-05-14 18:03:03 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:03:03 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:03:27 [INFO]: [GET] /assistant/bots
+2025-05-14 18:03:27 [INFO]: [GET] /assistant/bots
+2025-05-14 18:03:28 [INFO]: [GET] /user/me
+2025-05-14 18:03:28 [INFO]: 🔑 Token reçu :
+2025-05-14 18:03:28 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:03:28 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:03:28 [INFO]: [GET] /user/me
+2025-05-14 18:03:28 [INFO]: 🔑 Token reçu :
+2025-05-14 18:03:28 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:03:28 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:03:40 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 18:03:42 [INFO]: [GET] /assistant/bots
+2025-05-14 18:03:42 [INFO]: [GET] /assistant/bots
+2025-05-14 18:03:44 [INFO]: [GET] /user/me
+2025-05-14 18:03:44 [INFO]: 🔑 Token reçu :
+2025-05-14 18:03:44 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:03:44 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:03:44 [INFO]: [GET] /user/me
+2025-05-14 18:03:44 [INFO]: 🔑 Token reçu :
+2025-05-14 18:03:44 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:03:44 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:07:28 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 18:07:32 [INFO]: [GET] /assistant/bots
+2025-05-14 18:07:33 [INFO]: [GET] /assistant/bots
+2025-05-14 18:07:34 [INFO]: [GET] /user/me
+2025-05-14 18:07:34 [INFO]: 🔑 Token reçu :
+2025-05-14 18:07:34 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:07:34 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:07:34 [INFO]: [GET] /user/me
+2025-05-14 18:07:34 [INFO]: 🔑 Token reçu :
+2025-05-14 18:07:34 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:07:35 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:14:14 [INFO]: [GET] /assistant/bots
+2025-05-14 18:14:14 [INFO]: [GET] /assistant/bots
+2025-05-14 18:14:17 [INFO]: [GET] /user/me
+2025-05-14 18:14:17 [INFO]: 🔑 Token reçu :
+2025-05-14 18:14:17 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:14:17 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:14:17 [INFO]: [GET] /user/me
+2025-05-14 18:14:17 [INFO]: 🔑 Token reçu :
+2025-05-14 18:14:17 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:14:17 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:14:51 [INFO]: [GET] /assistant/bots
+2025-05-14 18:14:51 [INFO]: [GET] /assistant/bots
+2025-05-14 18:14:52 [INFO]: [GET] /user/me
+2025-05-14 18:14:52 [INFO]: 🔑 Token reçu :
+2025-05-14 18:14:52 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:14:52 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:14:52 [INFO]: [GET] /user/me
+2025-05-14 18:14:52 [INFO]: 🔑 Token reçu :
+2025-05-14 18:14:52 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:14:52 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:16:16 [INFO]: [GET] /assistant/bots
+2025-05-14 18:16:16 [INFO]: [GET] /assistant/bots
+2025-05-14 18:16:17 [INFO]: [GET] /user/me
+2025-05-14 18:16:17 [INFO]: 🔑 Token reçu :
+2025-05-14 18:16:17 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:16:17 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:16:17 [INFO]: [GET] /user/me
+2025-05-14 18:16:17 [INFO]: 🔑 Token reçu :
+2025-05-14 18:16:17 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:16:17 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:16:35 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 18:16:38 [INFO]: [GET] /assistant/bots
+2025-05-14 18:16:38 [INFO]: [GET] /assistant/bots
+2025-05-14 18:16:39 [INFO]: [GET] /user/me
+2025-05-14 18:16:39 [INFO]: 🔑 Token reçu :
+2025-05-14 18:16:39 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:16:39 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:16:39 [INFO]: [GET] /user/me
+2025-05-14 18:16:39 [INFO]: 🔑 Token reçu :
+2025-05-14 18:16:39 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:16:39 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:38:39 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 18:38:43 [INFO]: [GET] /assistant/bots
+2025-05-14 18:38:43 [INFO]: [GET] /assistant/bots
+2025-05-14 18:38:44 [INFO]: [GET] /user/me
+2025-05-14 18:38:44 [INFO]: 🔑 Token reçu :
+2025-05-14 18:38:44 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:38:44 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:38:44 [INFO]: [GET] /user/me
+2025-05-14 18:38:44 [INFO]: 🔑 Token reçu :
+2025-05-14 18:38:44 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:38:44 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:57:57 [INFO]: [GET] /assistant/bots
+2025-05-14 18:57:57 [INFO]: [GET] /assistant/bots
+2025-05-14 18:57:59 [INFO]: [GET] /user/me
+2025-05-14 18:57:59 [INFO]: 🔑 Token reçu :
+2025-05-14 18:57:59 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:57:59 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:57:59 [INFO]: [GET] /user/me
+2025-05-14 18:57:59 [INFO]: 🔑 Token reçu :
+2025-05-14 18:57:59 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 18:57:59 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 18:58:51 [INFO]: [POST] /auth/login
+2025-05-14 18:58:54 [INFO]: [GET] /user/admin
+2025-05-14 19:01:54 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 19:02:02 [INFO]: [GET] /user/admin
+2025-05-14 19:02:06 [INFO]: [GET] /assistant/bots
+2025-05-14 19:02:07 [INFO]: [GET] /assistant/bots
+2025-05-14 19:02:07 [INFO]: [GET] /user/me
+2025-05-14 19:02:07 [INFO]: 🔑 Token reçu :
+2025-05-14 19:02:07 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:02:07 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:02:07 [INFO]: [GET] /user/me
+2025-05-14 19:02:07 [INFO]: 🔑 Token reçu :
+2025-05-14 19:02:07 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:02:07 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:08:37 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 19:08:40 [INFO]: [POST] /auth/login
+2025-05-14 19:08:42 [INFO]: [GET] /user/admin
+2025-05-14 19:10:13 [INFO]: [GET] /user/admin
+2025-05-14 19:10:39 [INFO]: [POST] /auth/login
+2025-05-14 19:10:40 [INFO]: [GET] /assistant/bots
+2025-05-14 19:10:40 [INFO]: [GET] /assistant/bots
+2025-05-14 19:10:52 [INFO]: [POST] /auth/login
+2025-05-14 19:10:56 [INFO]: [GET] /user/admin
+2025-05-14 19:12:11 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 19:12:15 [INFO]: [GET] /user/admin
+2025-05-14 19:13:21 [INFO]: [GET] /assistant/bots
+2025-05-14 19:13:22 [INFO]: [GET] /assistant/bots
+2025-05-14 19:13:23 [INFO]: [GET] /user/me
+2025-05-14 19:13:23 [INFO]: 🔑 Token reçu :
+2025-05-14 19:13:23 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:13:23 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:13:23 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:13:23 [INFO]: [GET] /user/me
+2025-05-14 19:13:23 [INFO]: 🔑 Token reçu :
+2025-05-14 19:13:23 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:13:23 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:13:23 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:16:23 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 19:16:40 [INFO]: [GET] /assistant/bots
+2025-05-14 19:16:40 [INFO]: [GET] /assistant/bots
+2025-05-14 19:16:42 [INFO]: [GET] /user/me
+2025-05-14 19:16:42 [INFO]: 🔑 Token reçu :
+2025-05-14 19:16:42 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:16:42 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:16:42 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:16:42 [INFO]: [GET] /user/me
+2025-05-14 19:16:42 [INFO]: 🔑 Token reçu :
+2025-05-14 19:16:42 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:16:42 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:16:42 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:16:56 [INFO]: [GET] /user/admin
+2025-05-14 19:19:59 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 19:20:11 [INFO]: [GET] /user/admin
+2025-05-14 19:20:14 [INFO]: [GET] /assistant/bots
+2025-05-14 19:20:14 [INFO]: [GET] /assistant/bots
+2025-05-14 19:20:17 [INFO]: [GET] /user/me
+2025-05-14 19:20:17 [INFO]: 🔑 Token reçu :
+2025-05-14 19:20:17 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:20:17 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:20:17 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:20:17 [INFO]: [GET] /user/me
+2025-05-14 19:20:17 [INFO]: 🔑 Token reçu :
+2025-05-14 19:20:17 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:20:17 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:20:17 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:20:37 [INFO]: [GET] /assistant/bots
+2025-05-14 19:20:37 [INFO]: [GET] /assistant/bots
+2025-05-14 19:20:40 [INFO]: [GET] /user/me
+2025-05-14 19:20:40 [INFO]: 🔑 Token reçu :
+2025-05-14 19:20:40 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:20:40 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:20:40 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:20:40 [INFO]: [GET] /user/me
+2025-05-14 19:20:40 [INFO]: 🔑 Token reçu :
+2025-05-14 19:20:40 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:20:40 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:20:40 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:20:55 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 19:20:57 [INFO]: [GET] /assistant/bots
+2025-05-14 19:20:57 [INFO]: [GET] /assistant/bots
+2025-05-14 19:20:59 [INFO]: [GET] /user/me
+2025-05-14 19:20:59 [INFO]: 🔑 Token reçu :
+2025-05-14 19:20:59 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:20:59 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:20:59 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:20:59 [INFO]: [GET] /user/me
+2025-05-14 19:20:59 [INFO]: 🔑 Token reçu :
+2025-05-14 19:20:59 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:20:59 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:20:59 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:24:35 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 19:24:38 [INFO]: [GET] /assistant/bots
+2025-05-14 19:24:38 [INFO]: [GET] /assistant/bots
+2025-05-14 19:24:40 [INFO]: [GET] /user/me
+2025-05-14 19:24:40 [INFO]: 🔑 Token reçu :
+2025-05-14 19:24:40 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:24:40 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:24:40 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:24:40 [INFO]: [GET] /user/me
+2025-05-14 19:24:40 [INFO]: 🔑 Token reçu :
+2025-05-14 19:24:40 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:24:40 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:24:40 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:24:47 [INFO]: [GET] /user/admin
+2025-05-14 19:25:01 [INFO]: [GET] /assistant/bots
+2025-05-14 19:25:01 [INFO]: [GET] /assistant/bots
+2025-05-14 19:25:03 [INFO]: [GET] /user/me
+2025-05-14 19:25:03 [INFO]: 🔑 Token reçu :
+2025-05-14 19:25:03 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:25:03 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:25:03 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:25:03 [INFO]: [GET] /user/me
+2025-05-14 19:25:03 [INFO]: 🔑 Token reçu :
+2025-05-14 19:25:03 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:25:03 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:25:03 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:25:20 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 19:25:25 [INFO]: [GET] /assistant/bots
+2025-05-14 19:25:25 [INFO]: [GET] /assistant/bots
+2025-05-14 19:25:28 [INFO]: [GET] /user/me
+2025-05-14 19:25:28 [INFO]: 🔑 Token reçu :
+2025-05-14 19:25:28 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:25:28 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:25:28 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:25:28 [INFO]: [GET] /user/me
+2025-05-14 19:25:28 [INFO]: 🔑 Token reçu :
+2025-05-14 19:25:28 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:25:28 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:25:28 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:25:55 [INFO]: [GET] /user/admin
+2025-05-14 19:31:23 [INFO]: [GET] /assistant/bots
+2025-05-14 19:31:24 [INFO]: [GET] /assistant/bots
+2025-05-14 19:31:25 [INFO]: [GET] /user/me
+2025-05-14 19:31:25 [INFO]: 🔑 Token reçu :
+2025-05-14 19:31:25 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:31:25 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:31:25 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:31:25 [INFO]: [GET] /user/me
+2025-05-14 19:31:25 [INFO]: 🔑 Token reçu :
+2025-05-14 19:31:25 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:31:25 [INFO]: ✅ Données utilisateur final :
+2025-05-14 19:31:25 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 19:44:21 [INFO]: [GET] /user/admin
+2025-05-14 19:48:11 [INFO]: [GET] /user
+2025-05-14 19:48:11 [INFO]: 🔑 Token reçu :
+2025-05-14 19:48:11 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 19:51:40 [INFO]: [GET] /user
+2025-05-14 19:51:40 [WARN]: 🚫 Aucun header d'autorisation fourni
+2025-05-14 19:53:37 [INFO]: [GET] /user
+2025-05-14 19:53:37 [WARN]: 🚫 Aucun header d'autorisation fourni
+2025-05-14 19:54:52 [INFO]: [GET] /user
+2025-05-14 19:54:52 [INFO]: 🔑 Token reçu :
+2025-05-14 19:54:52 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 19:54:52 [INFO]: ✅ Liste des utilisateurs récupérée :
+2025-05-14 21:40:50 [INFO]: [GET] /user
+2025-05-14 21:40:50 [INFO]: 🔑 Token reçu :
+2025-05-14 21:40:50 [ERROR]: 🚫 Token expiré :
+2025-05-14 21:40:54 [INFO]: [GET] /assistant/bots
+2025-05-14 21:40:54 [INFO]: [GET] /assistant/bots
+2025-05-14 21:40:56 [INFO]: [GET] /user/me
+2025-05-14 21:40:56 [INFO]: 🔑 Token reçu :
+2025-05-14 21:40:56 [ERROR]: 🚫 Token expiré :
+2025-05-14 21:40:56 [INFO]: [GET] /user/me
+2025-05-14 21:40:56 [INFO]: 🔑 Token reçu :
+2025-05-14 21:40:56 [ERROR]: 🚫 Token expiré :
+2025-05-14 21:41:49 [INFO]: [GET] /assistant/bots
+2025-05-14 21:41:49 [INFO]: [GET] /assistant/bots
+2025-05-14 21:41:52 [INFO]: [GET] /user/me
+2025-05-14 21:41:52 [INFO]: 🔑 Token reçu :
+2025-05-14 21:41:52 [ERROR]: 🚫 Token expiré :
+2025-05-14 21:41:52 [INFO]: [GET] /user/me
+2025-05-14 21:41:52 [INFO]: 🔑 Token reçu :
+2025-05-14 21:41:52 [ERROR]: 🚫 Token expiré :
+2025-05-14 21:42:36 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 21:42:46 [INFO]: [POST] /auth/login
+2025-05-14 21:42:47 [INFO]: [GET] /assistant/bots
+2025-05-14 21:42:47 [INFO]: [GET] /assistant/bots
+2025-05-14 21:42:49 [INFO]: [GET] /user/me
+2025-05-14 21:42:49 [INFO]: 🔑 Token reçu :
+2025-05-14 21:42:49 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:42:49 [INFO]: ✅ Données utilisateur final :
+2025-05-14 21:42:49 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 21:42:49 [INFO]: [GET] /user/me
+2025-05-14 21:42:49 [INFO]: 🔑 Token reçu :
+2025-05-14 21:42:49 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:42:49 [INFO]: ✅ Données utilisateur final :
+2025-05-14 21:42:49 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 21:42:57 [INFO]: [GET] /user/admin
+2025-05-14 21:48:20 [INFO]: [GET] /user
+2025-05-14 21:48:20 [INFO]: 🔑 Token reçu :
+2025-05-14 21:48:20 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:48:20 [INFO]: ✅ Liste des utilisateurs récupérée :
+2025-05-14 21:48:24 [INFO]: [GET] /assistant/bots
+2025-05-14 21:48:24 [INFO]: [GET] /assistant/bots
+2025-05-14 21:48:25 [INFO]: [GET] /user/me
+2025-05-14 21:48:25 [INFO]: 🔑 Token reçu :
+2025-05-14 21:48:25 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:48:26 [INFO]: ✅ Données utilisateur final :
+2025-05-14 21:48:26 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 21:48:26 [INFO]: [GET] /user/me
+2025-05-14 21:48:26 [INFO]: 🔑 Token reçu :
+2025-05-14 21:48:26 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:48:26 [INFO]: ✅ Données utilisateur final :
+2025-05-14 21:48:26 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 21:48:35 [INFO]: [GET] /assistant/bots
+2025-05-14 21:48:35 [INFO]: [GET] /bots
+2025-05-14 21:48:35 [INFO]: [GET] /bots
+2025-05-14 21:48:35 [INFO]: [GET] /assistant/bots
+2025-05-14 21:48:38 [INFO]: [POST] /assistant/ask
+2025-05-14 21:48:41 [INFO]: [GET] /user/me
+2025-05-14 21:48:41 [INFO]: 🔑 Token reçu :
+2025-05-14 21:48:41 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:48:41 [INFO]: ✅ Données utilisateur final :
+2025-05-14 21:48:41 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 21:48:41 [INFO]: [GET] /user/me
+2025-05-14 21:48:41 [INFO]: 🔑 Token reçu :
+2025-05-14 21:48:41 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:48:42 [INFO]: ✅ Données utilisateur final :
+2025-05-14 21:48:42 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 21:51:22 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 21:51:26 [INFO]: [GET] /user
+2025-05-14 21:51:26 [INFO]: 🔑 Token reçu :
+2025-05-14 21:51:26 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:51:26 [INFO]: ✅ Liste des utilisateurs récupérée :
+2025-05-14 21:58:53 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 21:58:59 [INFO]: [GET] /user
+2025-05-14 21:58:59 [INFO]: 🔑 Token reçu :
+2025-05-14 21:58:59 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 21:59:00 [INFO]: ✅ Liste des utilisateurs avec licences récupérée :
+2025-05-14 22:19:05 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 22:19:12 [INFO]: [GET] /user
+2025-05-14 22:19:12 [INFO]: 🔑 Token reçu :
+2025-05-14 22:19:12 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:19:13 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:19:13 [INFO]: 🔍 Utilisateur mathieu@naoandco.com - Licences : 0
+2025-05-14 22:19:13 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-14 22:19:13 [INFO]: 🔍 Utilisateur m_schuhl@hotmail.com - Licences : 4
+2025-05-14 22:19:13 [INFO]: ✅ Nombre de licences pour l'utilisateur f8097944-4082-4ba4-ac8c-c24fb96dcf4b : 0
+2025-05-14 22:19:13 [INFO]: 🔍 Utilisateur test@entreprise.com - Licences : 0
+2025-05-14 22:19:13 [INFO]: ✅ Liste des utilisateurs récupérée avec licences :
+2025-05-14 22:19:16 [INFO]: [GET] /assistant/bots
+2025-05-14 22:19:16 [INFO]: [GET] /assistant/bots
+2025-05-14 22:19:18 [INFO]: [GET] /user/me
+2025-05-14 22:19:18 [INFO]: [GET] /user/me
+2025-05-14 22:19:51 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 22:19:53 [INFO]: [GET] /assistant/bots
+2025-05-14 22:19:53 [INFO]: [GET] /assistant/bots
+2025-05-14 22:19:55 [INFO]: [GET] /user/me
+2025-05-14 22:19:55 [INFO]: 🔑 Token reçu :
+2025-05-14 22:19:55 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:19:55 [INFO]: ✅ Données utilisateur final :
+2025-05-14 22:19:55 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 22:19:55 [INFO]: [GET] /user/me
+2025-05-14 22:19:55 [INFO]: 🔑 Token reçu :
+2025-05-14 22:19:55 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:19:55 [INFO]: ✅ Données utilisateur final :
+2025-05-14 22:19:55 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 22:20:02 [INFO]: [GET] /user
+2025-05-14 22:20:02 [INFO]: 🔑 Token reçu :
+2025-05-14 22:20:02 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:20:02 [INFO]: ✅ Liste des utilisateurs avec licences récupérée :
+2025-05-14 22:24:51 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 22:25:00 [INFO]: [GET] /user
+2025-05-14 22:25:00 [INFO]: 🔑 Token reçu :
+2025-05-14 22:25:00 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:25:01 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:25:01 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-14 22:25:01 [INFO]: ✅ Nombre de licences pour l'utilisateur f8097944-4082-4ba4-ac8c-c24fb96dcf4b : 0
+2025-05-14 22:25:01 [INFO]: ✅ Liste des utilisateurs avec licences récupérée :
+2025-05-14 22:25:03 [INFO]: [GET] /assistant/bots
+2025-05-14 22:25:03 [INFO]: [GET] /assistant/bots
+2025-05-14 22:25:05 [INFO]: [GET] /user/me
+2025-05-14 22:25:05 [INFO]: 🔑 Token reçu :
+2025-05-14 22:25:05 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:25:05 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:25:05 [INFO]: ✅ Données utilisateur final :
+2025-05-14 22:25:05 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 22:25:05 [INFO]: [GET] /user/me
+2025-05-14 22:25:05 [INFO]: 🔑 Token reçu :
+2025-05-14 22:25:05 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:25:05 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:25:05 [INFO]: ✅ Données utilisateur final :
+2025-05-14 22:25:05 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 22:25:12 [INFO]: [GET] /assistant/bots
+2025-05-14 22:25:12 [INFO]: [GET] /bots
+2025-05-14 22:25:12 [INFO]: [GET] /bots
+2025-05-14 22:25:12 [INFO]: [GET] /assistant/bots
+2025-05-14 22:25:17 [INFO]: [POST] /assistant/ask
+2025-05-14 22:25:27 [INFO]: [POST] /auth/login
+2025-05-14 22:25:29 [INFO]: [GET] /user
+2025-05-14 22:25:29 [INFO]: 🔑 Token reçu :
+2025-05-14 22:25:29 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:25:29 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:25:29 [INFO]: ✅ Nombre de licences pour l'utilisateur f8097944-4082-4ba4-ac8c-c24fb96dcf4b : 0
+2025-05-14 22:25:29 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-14 22:25:29 [INFO]: ✅ Liste des utilisateurs avec licences récupérée :
+2025-05-14 22:26:40 [INFO]: [GET] /user
+2025-05-14 22:26:40 [INFO]: 🔑 Token reçu :
+2025-05-14 22:26:40 [ERROR]: 🚫 Erreur de vérification du token :
+2025-05-14 22:30:38 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 22:30:46 [INFO]: [POST] /auth/login
+2025-05-14 22:31:30 [INFO]: [GET] /user
+2025-05-14 22:31:30 [INFO]: 🔑 Token reçu :
+2025-05-14 22:31:30 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:31:30 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:31:30 [INFO]: ✅ Nombre de licences pour l'utilisateur f8097944-4082-4ba4-ac8c-c24fb96dcf4b : 0
+2025-05-14 22:31:30 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-14 22:31:30 [INFO]: ✅ Liste des utilisateurs avec licences récupérée :
+2025-05-14 22:48:44 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 22:48:55 [INFO]: [GET] /user
+2025-05-14 22:48:55 [INFO]: 🔑 Token reçu :
+2025-05-14 22:48:55 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:48:55 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-14 22:48:55 [INFO]: ✅ Nombre de licences pour l'utilisateur f8097944-4082-4ba4-ac8c-c24fb96dcf4b : 0
+2025-05-14 22:48:55 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:48:55 [INFO]: ✅ Liste des utilisateurs avec licences récupérée :
+2025-05-14 22:48:58 [INFO]: [GET] /assistant/bots
+2025-05-14 22:48:58 [INFO]: [GET] /assistant/bots
+2025-05-14 22:49:00 [INFO]: [GET] /assistant/bots
+2025-05-14 22:49:00 [INFO]: [GET] /bots
+2025-05-14 22:49:00 [INFO]: [GET] /bots
+2025-05-14 22:49:00 [INFO]: [GET] /assistant/bots
+2025-05-14 22:49:04 [INFO]: [POST] /assistant/ask
+2025-05-14 22:49:07 [INFO]: [GET] /user/me
+2025-05-14 22:49:07 [INFO]: 🔑 Token reçu :
+2025-05-14 22:49:07 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:49:07 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:49:07 [INFO]: ✅ Données utilisateur final :
+2025-05-14 22:49:07 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 22:49:07 [INFO]: [GET] /user/me
+2025-05-14 22:49:07 [INFO]: 🔑 Token reçu :
+2025-05-14 22:49:07 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 22:49:07 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 22:49:07 [INFO]: ✅ Données utilisateur final :
+2025-05-14 22:49:07 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 22:49:51 [INFO]: [POST] /assistant/ask
+2025-05-14 22:51:33 [INFO]: [POST] /assistant/ask
+2025-05-14 22:52:33 [INFO]: [GET] /assistant/bots
+2025-05-14 22:52:33 [INFO]: [GET] /bots
+2025-05-14 22:52:33 [INFO]: [GET] /bots
+2025-05-14 22:52:33 [INFO]: [GET] /assistant/bots
+2025-05-14 22:52:47 [INFO]: [POST] /assistant/ask
+2025-05-14 22:57:54 [INFO]: [GET] /bots
+2025-05-14 23:00:47 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 23:10:35 [INFO]: [GET] /assistant/bots
+2025-05-14 23:10:35 [INFO]: [GET] /assistant/bots
+2025-05-14 23:10:35 [INFO]: [GET] /assistant/bots
+2025-05-14 23:10:35 [INFO]: [GET] /assistant/bots
+2025-05-14 23:10:49 [INFO]: [POST] /assistant/ask
+2025-05-14 23:15:08 [INFO]: [GET] /assistant/bots
+2025-05-14 23:15:08 [INFO]: [GET] /assistant/bots
+2025-05-14 23:15:08 [INFO]: [GET] /assistant/bots
+2025-05-14 23:15:08 [INFO]: [GET] /assistant/bots
+2025-05-14 23:15:21 [INFO]: [POST] /assistant/ask
+2025-05-14 23:19:46 [INFO]: [GET] /assistant/bots
+2025-05-14 23:20:07 [INFO]: [POST] /assistant/ask
+2025-05-14 23:20:30 [INFO]: [POST] /assistant/ask
+2025-05-14 23:24:14 [INFO]: 🚀 Auth-Backend lancé sur http://localhost:4002
+2025-05-14 23:24:26 [INFO]: [GET] /bots
+2025-05-14 23:24:47 [INFO]: [POST] /assistant/ask
+2025-05-14 23:40:29 [INFO]: [GET] /assistant/bots
+2025-05-14 23:40:30 [INFO]: [GET] /assistant/bots
+2025-05-14 23:40:30 [INFO]: [GET] /assistant/bots
+2025-05-14 23:40:30 [INFO]: [GET] /assistant/bots
+2025-05-14 23:40:38 [INFO]: [POST] /assistant/ask
+2025-05-14 23:41:49 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:33 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:33 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:33 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:33 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:40 [INFO]: [POST] /auth/login
+2025-05-14 23:44:42 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:42 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:46 [INFO]: [GET] /user
+2025-05-14 23:44:46 [INFO]: 🔑 Token reçu :
+2025-05-14 23:44:46 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 23:44:46 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 23:44:46 [INFO]: ✅ Nombre de licences pour l'utilisateur fabaef3e-5558-463f-82b3-f72430c1dd2d : 4
+2025-05-14 23:44:46 [INFO]: ✅ Nombre de licences pour l'utilisateur f8097944-4082-4ba4-ac8c-c24fb96dcf4b : 0
+2025-05-14 23:44:46 [INFO]: ✅ Liste des utilisateurs avec licences récupérée :
+2025-05-14 23:44:49 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:49 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:50 [INFO]: [GET] /user/me
+2025-05-14 23:44:50 [INFO]: 🔑 Token reçu :
+2025-05-14 23:44:50 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 23:44:50 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 23:44:50 [INFO]: ✅ Données utilisateur final :
+2025-05-14 23:44:50 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 23:44:50 [INFO]: [GET] /user/me
+2025-05-14 23:44:50 [INFO]: 🔑 Token reçu :
+2025-05-14 23:44:50 [INFO]: 🔓 Token valide, utilisateur authentifié avec rôle :
+2025-05-14 23:44:50 [INFO]: ✅ Nombre de licences pour l'utilisateur 08aac309-cd9f-41cb-860c-2429aa3a24a8 : 0
+2025-05-14 23:44:50 [INFO]: ✅ Données utilisateur final :
+2025-05-14 23:44:50 [INFO]: ✅ Données utilisateur récupérées :
+2025-05-14 23:44:54 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:54 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:54 [INFO]: [GET] /assistant/bots
+2025-05-14 23:44:54 [INFO]: [GET] /assistant/bots
+2025-05-14 23:45:14 [INFO]: [POST] /assistant/ask
+2025-05-14 23:46:50 [INFO]: [GET] /assistant/bots
+2025-05-14 23:47:08 [INFO]: [POST] /assistant/ask
+2025-05-14 23:48:13 [INFO]: [POST] /assistant/ask
+2025-05-14 23:50:57 [INFO]: [POST] /assistant/ask
+2025-05-14 23:53:06 [INFO]: [POST] /assistant/ask
+2025-05-14 23:53:58 [INFO]: [POST] /assistant/ask
+2025-05-14 23:54:22 [INFO]: [POST] /assistant/ask
+2025-05-14 23:56:24 [INFO]: [GET] /assistant/bots
+2025-05-14 23:56:24 [INFO]: [GET] /assistant/bots
+2025-05-14 23:56:24 [INFO]: [GET] /assistant/bots
+2025-05-14 23:56:24 [INFO]: [GET] /assistant/bots
+2025-05-14 23:56:54 [INFO]: [POST] /assistant/ask
