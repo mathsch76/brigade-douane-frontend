@@ -2,19 +2,10 @@
   "$schema": "https://railway.app/railway.schema.json",
   "build": {
     "builder": "NIXPACKS",
-    "buildCommand": "npm install --legacy-peer-deps && npx vite build",
-    "watchPatterns": [
-      "**/*.tsx",
-      "**/*.ts", 
-      "**/*.jsx",
-      "**/*.js",
-      "**/*.css",
-      "**/*.scss",
-      "**/*.json"
-    ]
+    "buildCommand": "npm install --legacy-peer-deps && npm run build:static"
   },
   "deploy": {
-    "startCommand": "npx vite preview --host 0.0.0.0 --port $PORT",
+    "startCommand": "npx serve dist -s -l $PORT",
     "healthcheckPath": "/",
     "healthcheckTimeout": 30,
     "restartPolicyType": "ON_FAILURE",
