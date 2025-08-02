@@ -1,11 +1,11 @@
 {
   "name": "brigade-douane",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
     "prebuild:static": "echo VITE_BACKEND_URL=$VITE_BACKEND_URL > .env.production",
-"build:static": "npm run prebuild:static && chmod +x node_modules/.bin/vite && npx vite build"
+"build:static": "npm run prebuild:static && chmod +x node_modules/.bin/vite && npx vite build",
     "preview": "vite preview --host",
     "start": "npm run preview"
   },
