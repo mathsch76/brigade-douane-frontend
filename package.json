@@ -3,10 +3,10 @@
   "version": "1.0.1",
   "type": "module",
   "scripts": {
-    "dev": "npx vite --host",
+    "dev": "node --no-warnings ./node_modules/vite/bin/vite.js --host",
     "prebuild:static": "echo OK",
-    "build:static": "npm run prebuild:static && npx vite build",
-    "preview": "npx vite preview --host",
+    "build:static": "npm run prebuild:static && node --no-warnings ./node_modules/vite/bin/vite.js build",
+    "preview": "node --no-warnings ./node_modules/vite/bin/vite.js preview --host",
     "start": "npm run preview"
   },
   "dependencies": {
