@@ -27,3 +27,5 @@ railway.json
 .vitepress
 
 !/.railway/setup.sh
+!.env.production
+
