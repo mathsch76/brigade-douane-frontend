@@ -3,19 +3,17 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
- "scripts": {
-  "dev": "vite --host",
   "scripts": {
-  "dev": "vite --host",
-  "build": "npm run build:static",
-  "prebuild:static": "echo \"VITE_BACKEND_URL=$VITE_BACKEND_URL\" > .env.production",
-  "build:static": "npm run prebuild:static && npx vite build",
-  "preview": "npx vite preview --host 0.0.0.0 --port ${PORT:-4173}",
-  "serve": "npm run preview",
-  "start": "npm run serve",
-  "proxy": "node proxy-server.js",
-  "lint": "eslint .",
-  "deploy:railway": "npm run build && railway up"
+    "dev": "vite --host",
+    "build": "npm run build:static",
+    "prebuild:static": "echo \"VITE_BACKEND_URL=$VITE_BACKEND_URL\" > .env.production",
+    "build:static": "npm run prebuild:static && npx vite build",
+    "preview": "npx vite preview --host 0.0.0.0 --port ${PORT:-4173}",
+    "serve": "npm run preview",
+    "start": "npm run serve",
+    "proxy": "node proxy-server.js",
+    "lint": "eslint .",
+    "deploy:railway": "npm run build && railway up"
   },
   "engines": {
     "node": ">=18.0.0",
