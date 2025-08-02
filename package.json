@@ -4,17 +4,25 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "prebuild:static": "echo VITE_BACKEND_URL=$VITE_BACKEND_URL > .env.production",
-"build:static": "npm run prebuild:static && chmod +x node_modules/.bin/vite && npx vite build",
+    "prebuild:static": "echo VITE_BACKEND_URL=%VITE_BACKEND_URL% > .env.production",
+    "build:static": "npm run prebuild:static && npx vite build",
     "preview": "vite preview --host",
     "start": "npm run preview"
   },
   "dependencies": {
     "axios": "^1.6.7",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^10.1.0",
+    "recharts": "^3.1.0"
   },
   "devDependencies": {
-    "vite": "^4.5.0"
+    "@tailwindcss/postcss": "^4.1.11",
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "terser": "^5.43.1",
+    "vite": "^4.5.14"
   }
 }
