@@ -61,5 +61,13 @@
   },
   "overrides": {
     "react-router-dom": "^6.28.1"
+  },
+  "environments": {
+    "production": {
+      "variables": {
+        "NODE_ENV": "production",
+        "VITE_BACKEND_URL": "https://la-brigade-de-la-douane-back-production.up.railway.app"
+      }
+    }
   }
 }
