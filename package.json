@@ -5,6 +5,7 @@
   "type": "module",
 "scripts": {
   "dev": "vite --host",
+"build": "npm run build:static",
   "prebuild:static": "echo \"VITE_BACKEND_URL=$VITE_BACKEND_URL\" > .env.production",
   "build:static": "echo \"VITE_BACKEND_URL=$VITE_BACKEND_URL\" > .env.production && node node_modules/vite/bin/vite.js build",
   "preview": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
