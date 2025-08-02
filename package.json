@@ -3,13 +3,13 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
+ "scripts": {
   "dev": "vite --host",
   "build": "npm run build:static",
   "prebuild:static": "echo \"VITE_BACKEND_URL=$VITE_BACKEND_URL\" > .env.production",
-  "build:static": "npm run prebuild:static && npx vite build",
-  "preview": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
-  "serve": "npx vite preview --host 0.0.0.0 --port ${PORT:-4173}",
+  "build:static": "npm run prebuild:static && node node_modules/vite/bin/vite.js build",
+  "preview": "node node_modules/vite/bin/vite.js preview --host 0.0.0.0 --port ${PORT:-4173}",
+  "serve": "npm run preview",
   "start": "npm run serve",
   "proxy": "node proxy-server.js",
   "lint": "eslint .",
