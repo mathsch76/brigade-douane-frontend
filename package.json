@@ -3,17 +3,29 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-"scripts": {
-  "dev": "vite --host",
-"build": "npm run build:static",
-  "prebuild:static": "echo \"VITE_BACKEND_URL=$VITE_BACKEND_URL\" > .env.production",
-  "build:static": "echo \"VITE_BACKEND_URL=$VITE_BACKEND_URL\" > .env.production && node node_modules/vite/bin/vite.js build",
-  "preview": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
-  "serve": "node node_modules/vite/bin/vite.js preview --host 0.0.0.0 --port ${PORT:-4173}",
-  "start": "npm run serve",
-  "proxy": "node proxy-server.js",
-  "lint": "eslint .",
-  "deploy:railway": "npm run build && railway up"
+  "scripts": {
+    "dev": "vite --host",
+
+    // 🔧 Génére le .env.production avec l'URL backend avant build
+    "prebuild:static": "echo \"VITE_BACKEND_URL=$VITE_BACKEND_URL\" > .env.production",
+
+    // 🏗 Build production avec env backend injectée
+    "build": "npm run build:static",
+    "build:static": "npm run prebuild:static && vite build",
+
+    // 🔎 Preview local de la prod
+    "preview": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
+    "serve": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
+    "start": "npm run serve",
+
+    // 🧪 Proxy local (optionnel)
+    "proxy": "node proxy-server.js",
+
+    // 🧼 Linter
+    "lint": "eslint .",
+
+    // 🚀 Déploiement Railway (zip ou Git)
+    "deploy:railway": "npm run build && railway up"
   },
   "engines": {
     "node": ">=18.0.0",
