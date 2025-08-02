@@ -1,9 +1,10 @@
-// vite.config.ts - VERSION PRODUCTION PROPRE
+// vite.config.ts - VERSION PRODUCTION PROPRE ET FONCTIONNELLE POUR RAILWAY
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
+  base: './', // ✅ Essentiel pour Railway ou toute URL relative
   plugins: [react()],
   resolve: {
     alias: {
@@ -19,8 +20,8 @@ export default defineConfig({
     port: process.env.PORT ? parseInt(process.env.PORT) : 4173,
     host: '0.0.0.0',
     allowedHosts: [
-      'healthcheck.railway.app', // Autoriser Railway healthcheck
-      '.railway.app', // Autoriser tous les sous-domaines Railway
+      'healthcheck.railway.app',
+      '.railway.app',
       'localhost'
     ]
   },
@@ -50,7 +51,6 @@ export default defineConfig({
   },
   define: {
     global: 'globalThis',
-    // ✅ INJECTION EXPLICITE de la variable d'environnement
     'import.meta.env.VITE_BACKEND_URL': JSON.stringify(process.env.VITE_BACKEND_URL)
   },
   optimizeDeps: {
